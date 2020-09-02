@@ -29,7 +29,7 @@
 - Run ```python3 avse_main.py --dataset FLO --manualSeed 806 --nclass_all 102 --lr 0.0001 --classifier_lr 0.001 --gamma 0.1 --nepoch 100 --nz 1024 --attSize 1024 --resSize 2048 --syn_num 300 --save_name flower``` 
 
 ## Notes
-- Some codes are based on the codebase of the [repository](https://github.com/hshustc/CVPR19_Incremental_Learning).
+- This repo is based on the codebase of [f-CLSWGAN](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/zero-shot-learning/feature-generating-networks-for-zero-shot-learning/)
 - More instructions will be provided later.
 
 # Citation
