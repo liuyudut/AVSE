@@ -3,7 +3,7 @@
 - Perform embedding-to-image generation which visually exhibits the embeddings.
 - Obtain consistent and promising improvements over previous baseline models.
 
-![architecture](https://github.com/Liuy8/MUC/blob/master/MUC_overview.png)
+![architecture](https://github.com/Liuy8/AVSE/blob/master/network.png)
 
 ## Dependencies
 
